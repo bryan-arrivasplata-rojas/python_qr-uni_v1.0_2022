@@ -34,7 +34,7 @@ def createQR(imagenlogo,url,path):
 
 imagen = 'logo-uni.png'
 imagenlogo = 'img/logo/'+imagen
-url = 'https://forms.gle/bkvT3dCUC34xSN4E9'
+url = 'https://www.fiis.uni.edu.pe/'
 path = 'img/qr/'+imagen
 
 createQR(imagenlogo,url,path)
