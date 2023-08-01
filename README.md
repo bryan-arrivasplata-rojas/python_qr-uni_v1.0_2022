@@ -1,5 +1,5 @@
-# python_v3.9.7_proy-qr-uni_v1.0_2022
-Crear Alta calidad de imagen QR con Logo incluido
+# qr-uni_v1.0_2022
+Crear Alta calidad de imagen QR con Logo incluido, usando Python
 
 # Identificar el nombre del proyecto
 Lenguage programación: Python
